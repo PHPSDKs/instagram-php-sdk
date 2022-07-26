@@ -1,5 +1,5 @@
 {
-    "name": "PHPSDKs/instagram-php-sdk",
+    "name": "phpsdks/instagram-php-sdk",
     "description": "A hello world composer private package.",
     "autoload": {
         "psr-4": {
