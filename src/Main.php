@@ -1,6 +1,6 @@
 <?php
 
-namespace phpsdks\\InstagramSDK;
+namespace phpsdks\InstagramSDK;
 
 class Main{
     public function __construct(){
