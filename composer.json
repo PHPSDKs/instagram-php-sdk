@@ -1,0 +1,11 @@
+{
+    "name": "PHPSDKs/instagram-php-sdk",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "PHPSDKs\\InstagramSDK\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
