@@ -1,11 +1,19 @@
 {
     "name": "phpsdks/instagram-php-sdk",
     "description": "A hello world composer private package.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdelkarim CHAMLAL",
+            "email": "abdelkarim.chamlal@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
-            "PHPSDKs\\InstagramSDK\\": "src/"
+            "phpsdks\\InstagramSDK\\": "src/"
         }
     },
     "minimum-stability": "dev",
+    "require": {},
     "prefer-stable": true
 }
