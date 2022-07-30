@@ -1,12 +1,10 @@
 <?php
 
-namespace phpsdks\InstagramSDK;
+namespace phpsdks;
 
-class Main{
+class InstagramSDK{
     public function __construct(){
         echo "Hello World";
     }
 }
-
-
 ?>

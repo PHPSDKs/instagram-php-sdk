@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "phpsdks\\InstagramSDK\\": "src/"
+            "phpsdks\\": "src/"
         }
     },
     "minimum-stability": "dev",
